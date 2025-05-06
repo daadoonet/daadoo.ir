@@ -14,7 +14,6 @@ This is the source code for my personal website — a simple, responsive HTML/CS
 ## 🛠 Technologies Used
 
 - HTML5
-- CSS3 (vanilla)
 
 
 ## 📡 Live Demo
