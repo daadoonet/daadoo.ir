@@ -23,6 +23,6 @@ Note: I'm not a web designer — this site was built just for fun using my basic
 You can view the website live here: [daadoo.ir](https://daadoo.ir/)
 
 
-Feel free to clone or fork this repository and modify it for your own personal website. Just remember to give credit where it's due.
+Feel free to clone or fork this repository and modify it for your own personal website.
 
  
