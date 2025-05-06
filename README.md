@@ -3,6 +3,8 @@
 
 This is the source code for my personal website — a simple, responsive HTML/CSS site to showcase who I am and what I do.
 
+Note: I'm not a web designer — this site was built just for fun using my basic HTML knowledge.
+
 ## ✨ Features
 
 - Clean and minimal design
@@ -23,5 +25,4 @@ You can view the website live here: [daadoo.ir](https://daadoo.ir/)
 
 Feel free to clone or fork this repository and modify it for your own personal website. Just remember to give credit where it's due.
 
-
-
+ 
