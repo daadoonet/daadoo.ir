@@ -2,12 +2,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/qehvcpmt/www/
-#    - /bin/cp -R .vscode $DEPLOYPATH
-#    - /bin/cp -R assets $DEPLOYPATH
-#    - /bin/cp -R css $DEPLOYPATH
-#    - /bin/cp -R fonts $DEPLOYPATH
-#    - /bin/cp -R img $DEPLOYPATH
-#    - /bin/cp -R js $DEPLOYPATH
-    index.html $DEPLOYPATH
+    - export DEPLOYPATH=/home/qehvcpmt/public_html/
+    - /bin/cp index.html $DEPLOYPATH
 
