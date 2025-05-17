@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/qehvcpmt/public_html/
-    - /home/qehvcpmt/repositories/daadoo.ir index.html $DEPLOYPATH
